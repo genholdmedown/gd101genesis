@@ -16,8 +16,7 @@ PVector lines7 = new PVector (700, 285);
 PVector lines8 = new PVector (800, 173);
 PVector lines9 = new PVector (900, 60);
 PVector lines0 = new PVector (1000, -19);
-// this is painful. if this doesnt work i will cry very hard in public.
-// also using this as a divider because i cannot read all this shit
+
 PVector lines10 = new PVector (100, 1066);
 PVector lines20 = new PVector (200, 1028);
 PVector lines30 = new PVector (300, 1106);
@@ -39,7 +38,7 @@ PVector lines700 = new PVector (750, 272);
 PVector lines800 = new PVector (850, 112);
 PVector lines900 = new PVector (950, 30);
 PVector lines000 = new PVector (1024, 187);
-// haha...hahah...HAHHAHAAHHAHHHAHHAHHAHA AHAHHAAHAHAAHAHAHAHAHHAH
+
 PVector PAIN1 = new PVector (148, 994);
 PVector PAIN2 = new PVector (263, 979);
 PVector PAIN3 = new PVector (354, 973);
@@ -51,7 +50,7 @@ PVector PAIN8 = new PVector (849, 970);
 PVector PAIN9 = new PVector (945, 1005);
 PVector PAIN0 = new PVector (1032, 742);
 
-// crazy? i was crazy once. they locked me in a room. a rubber room. a rubber room of rats. the rats made me crazy.... crazy? i was cr
+
 
 PVector yippee =new PVector (50, 282);
 PVector yippee2=new PVector (45, 1100);
@@ -82,7 +81,7 @@ point (yippee.x, yippee.y);
 strokeWeight (2);
 
 line (lines1.x, lines1.y, lines10.x, lines10.y);
-//another divider
+
 line (lines2.x, lines2.y, lines20.x, lines20.y);
 line (lines3.x, lines3.y, lines30.x, lines10.y);
 line (lines4.x, lines4.y, lines40.x, lines10.y);
@@ -92,7 +91,7 @@ line (lines7.x, lines7.y, lines70.x, lines10.y);
 line (lines8.x, lines8.y, lines80.x, lines10.y);
 line (lines9.x, lines9.y, lines90.x, lines10.y);
 line (lines0.x, lines0.y, lines00.x, lines10.y);
-//dividtavious 
+
 line (lines100.x, lines100.y, PAIN1.x, PAIN1.y);
 line (lines200.x, lines200.y, PAIN2.x, PAIN2.y);
 line (lines300.x, lines300.y, PAIN3.x, PAIN3.y);
