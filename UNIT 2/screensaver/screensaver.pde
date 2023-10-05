@@ -1,3 +1,4 @@
+//ok so this was literally just working BUT now for some reason the txt file refuses to load. YAY!
 ScreensaverElement screensaver;
 PFont customFont;
 
