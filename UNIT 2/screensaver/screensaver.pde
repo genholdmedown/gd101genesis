@@ -1,4 +1,3 @@
-//ok so this was literally just working BUT now for some reason the txt file refuses to load. YAY!
 ScreensaverElement screensaver;
 PFont customFont;
 
@@ -7,7 +6,7 @@ void setup() {
   screensaver = new ScreensaverElement();
   frameRate(60);
   
-   customFont = createFont("ancient.ttf", 100); // custom font
+   customFont = createFont("customfont.ttf", 100); // custom font
   textFont(customFont); // Set the custom font as the current font
 }
 
